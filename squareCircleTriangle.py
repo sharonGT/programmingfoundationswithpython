@@ -1,6 +1,13 @@
 import turtle
 
 
+def draw_auto(some_turtle):
+    x = 0
+    while x < 4:
+        some_turtle.forward(100)
+        some_turtle.right(90)
+        x = x + 1
+
 def draw_square():
      window = turtle.Screen()
      window.bgcolor("red")
@@ -10,13 +17,8 @@ def draw_square():
      brad.shape("circle")
      brad.color("yellow")
      brad.speed(3)
-
-     x = 0
-     while x < 4: 
-         brad.forward(100)
-         brad.right(90)
-         x = x + 1
-
+     draw_auto(brad)
+     
 def draw_circle():
      window = turtle.Screen()
      window.bgcolor("red")
