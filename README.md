@@ -1,5 +1,5 @@
 # programmingfoundationswithpython
-** ## Mini projects with python ## **
+## Mini projects with python ## 
 
 ###### Square.py squareCircleTriangle.py #######
 
