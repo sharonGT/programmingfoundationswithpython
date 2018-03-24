@@ -1,7 +1,7 @@
 # programmingfoundationswithpython
 **Mini projects with python**
 
-######Square.py squareCircleTriangle.py#######
+###### Square.py squareCircleTriangle.py #######
 
 In this file, you can see I learnt how to use: 
 1. while loop
